@@ -6,17 +6,14 @@
 ![](https://komarev.com/ghpvc/?username=TheItCrOw&color=yellow&base=11934)
 ### Greetings!
 I'm a part-time Research Associate (NLP/AI) studying Computer Science in Frankfurt, Germany. Feel free to check out my pinned repositories below! Concact me via:
-
-<div align="center">
+  <label>&nbsp;</label>
   <a href="mailto:k.boenisch@outlook.com">
-    <img width="20" src="https://github.com/TheItCrOw/TheItCrOw/assets/49918134/a087a0fa-0f9f-479f-99e2-ba10568e5577"/>
+    <img width="15" src="https://github.com/TheItCrOw/TheItCrOw/assets/49918134/a087a0fa-0f9f-479f-99e2-ba10568e5577"/>
   </a>
-  <label>&nbsp;&nbsp;&nbsp;&nbsp;</label>
+  <label>&nbsp;</label>
   <a href="https://www.kaggle.com/kevinbnisch" target="_blank">
-    <img width="30" src="https://github.com/TheItCrOw/TheItCrOw/assets/49918134/9f6528a7-336c-4229-bd58-a0ee03103274"/>
+    <img width="20" src="https://github.com/TheItCrOw/TheItCrOw/assets/49918134/9f6528a7-336c-4229-bd58-a0ee03103274"/>
   </a>
-  <label>&nbsp;&nbsp;&nbsp;&nbsp;</label>
-</div>
 <hr/>
 <div align="center">
 <b>Always building the Bundestags-Mine, an environment for extracting key information from government documents (german) by means of Natural Language Processing and AI :robot::</b>
