@@ -1,9 +1,10 @@
+![](https://komarev.com/ghpvc/?username=TheItCrOw&color=yellow&base=11934)
+
 <div>
   <h4 align="center"><i>"Let there be neither dissatisfaction with oneself - for that would be pusillanimity; - nor self-satisfaction, for that would be stupidity."</i><br/><br/>Baltasar Gracián</h4>
   <hr/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=TheItCrOw&color=yellow&base=11934)
 ### Greetings!
 I'm a part-time Research Associate (NLP/AI) studying Computer Science in Frankfurt, Germany. Feel free to check out my pinned repositories below! Concact me via:
   <label>&nbsp;</label>
