@@ -22,7 +22,7 @@ I'm a part-time Research Associate (NLP/AI) studying Computer Science in Frankfu
 <br/>
 <div align="center">
   <a href="https://bundestag-mine.de/" target="_blank" background="red">
-    <img width="60" src="https://github.com/TheItCrOw/TheItCrOw/assets/49918134/2cc3da6e-a2ea-476d-90dd-aba184e1c7ff"/>
+    <img src="https://github.com/TheItCrOw/Bundestags-Mine/assets/49918134/5c9b92df-4b05-4129-81ea-685430c10c19" width="60"/>
   </a>
   <p>
     <sub><i>36th International Conference on Legal Knowledge and Information Systems (JURIX). accepted.</i></sub>
