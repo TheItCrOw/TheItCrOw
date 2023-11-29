@@ -17,7 +17,7 @@ I'm a part-time Research Associate studying Computer Science in Frankfurt, Germa
 </div>
 <hr/>
 <div align="center">
-<b>Always building the Bundestags-Mine, an environment for extracting key information from government documents by means of Natural Language Processing and AI :robot::</b>
+<b>Always building the Bundestags-Mine, an environment for extracting key information from government documents (german) by means of Natural Language Processing and AI :robot::</b>
 </div>
 <br/>
 <div align="center">
