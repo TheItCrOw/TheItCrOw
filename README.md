@@ -3,6 +3,8 @@
   <hr/>
 </div>
 
+![](https://komarev.com/ghpvc/?username=TheItCrOw&color=yellow&base=11934)
+### Greetings!
 I'm a part-time Research Associate studying Computer Science in Frankfurt, Germany. Feel free to check out my pinned repositories below! Concact me via:
 
 <div align="center">
