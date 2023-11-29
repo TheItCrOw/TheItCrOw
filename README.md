@@ -3,7 +3,7 @@
   <hr/>
 </div>
 
-I'm a part-time Research Associate studying Computer Science in Frankfurt, Germany. Feel free to check out my pinned repositories! Also see below for concat information. 📫
+I'm a part-time Research Associate studying Computer Science in Frankfurt, Germany. Feel free to check out my pinned repositories below! Concact me via:
 
 <div align="center">
   <a href="mailto:k.boenisch@outlook.com">
@@ -13,5 +13,18 @@ I'm a part-time Research Associate studying Computer Science in Frankfurt, Germa
   <a href="https://www.kaggle.com/kevinbnisch" target="_blank">
     <img width="40" src="https://github.com/TheItCrOw/TheItCrOw/assets/49918134/9f6528a7-336c-4229-bd58-a0ee03103274"/>
   </a>
+  <label>&nbsp;&nbsp;&nbsp;&nbsp;</label>
 </div>
-
+<hr/>
+<div align="center">
+<b>Always building the Bundestags-Mine, an environment for extracting key information from government documents by means of Natural Language Processing and AI :robot::</b>
+</div>
+<br/>
+<div align="center">
+  <a href="https://bundestag-mine.de/" target="_blank" background="red">
+    <img width="60" src="https://github.com/TheItCrOw/TheItCrOw/assets/49918134/2cc3da6e-a2ea-476d-90dd-aba184e1c7ff"/>
+  </a>
+  <p>
+    <sub><i>36th International Conference on Legal Knowledge and Information Systems (JURIX). accepted.</i></sub>
+  </p>
+</div>
