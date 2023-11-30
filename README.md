@@ -6,7 +6,7 @@
 </div>
 
 ### Greetings!
-I'm a part-time Research Associate (NLP/AI) studying Computer Science in Frankfurt, Germany. Feel free to check out my pinned repositories below! Concact me via:
+I'm a Research Associate (NLP/AI) studying Computer Science in Frankfurt, Germany. Feel free to check out my pinned repositories below! Concact me via:
   <label>&nbsp;</label>
   <a href="mailto:k.boenisch@outlook.com">
     <img width="15" src="https://github.com/TheItCrOw/TheItCrOw/assets/49918134/a087a0fa-0f9f-479f-99e2-ba10568e5577"/>
