@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=TheItCrOw&color=yellow&base=11934)
 
 <div>
-  <h4 align="center"><i>"Let there be neither dissatisfaction with oneself - for that would be pusillanimity; - nor self-satisfaction, for that would be stupidity."</i><br/><br/>Baltasar Gracián</h4>
+  <h4 align="center"><i>"You must neither be discontented with yourself—and that were poor-spirited—nor self-satisfied—and that is folly."</i><br/><br/>Baltasar Gracián</h4>
   <hr/>
 </div>
 
